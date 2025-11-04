@@ -1,5 +1,5 @@
 name: snowflake-migration-demo
-
+echo "SF_ACCOUNT='$SF_ACCOUNT'"
 # Controls when the action will run. 
 on:
   push:
